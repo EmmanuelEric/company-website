@@ -69,7 +69,7 @@
 
                         <!-- LAYER NR. 2 -->
                         <div class="tp-caption slider-caption" data-x="center" data-y="center" data-voffset="40" data-speed="500" data-start="1800" data-easing="Power4.easeInOut" data-captionhidden="on">
-                           We are skilled at what we do, we give that crative touch to your brand.
+                           We are skilled at what we do, we give that creative touch to your brand.
                         </div> <!-- /tp-caption -->
 
                         <!-- LAYER NR. 3 -->
@@ -299,7 +299,7 @@
                             <h1> <span class="alo">Who we are and what we represent</h1> 
                             <span class="border-line"></span>
                             <p class="lead subtitle-caption">
-                                To be the world most reliable provider of business solutions
+                                To be the world's most reliable provider of business solutions
                             </p>
                         </div>
                     </div>
@@ -313,9 +313,9 @@
                         <div class="post-overlay"></div>
                         <div class="post-preview-content">
                             
-                            <h2 class="title">Deligence</h2>
+                            <h2 class="title">Diligence</h2>
                             <span class="border-line"></span>
-                            <p class="author">At JVEC Solutions, we believe that whatever is worth doing, is worth doing well. This mindset is responsible for our conscientious and deligent approach in achieving quality service delivery.</p>
+                            <p class="author">At JVEC Solutions, we believe that whatever is worth doing, is worth doing well. This mindset is responsible for our conscientious and diligent approach in achieving quality service delivery.</p>
                         </div>
                     </a>
                 </div><!--news col-->
@@ -446,7 +446,7 @@
                             <h1> <span class="alo">Training Snapshots</h1> 
                             <span class="border-line"></span>
                             <p class="lead subtitle-caption">
-                            “Providing businesses with technological solutions needed for maximum productivity.”
+                            “We are the forefront of capacity development.”
                             </p>
                         </div>
                     </div>
