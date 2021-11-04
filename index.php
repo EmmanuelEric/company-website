@@ -165,7 +165,7 @@
                             <div class="features-text-right">
                                 <h3>Web development</h3>                         
                                 <p>
-                                    Every business needs an online identity, at JVEC, we move beyond giving our client just an online identity to giving them one that captivates and sells itself at first sight. We understand the need for a good impression when prospetive customers interact with your website for the first time. We build for our client, websites that are fun and easy to interact with giving our clients that representation they deserve. 
+                                    Every business needs an online identity, at JVEC, we move beyond giving our clients just an online identity to giving them one that captivates and sells itself at first sight. We understand the need for a good impression when prospetive customers interact with your website for the first time. We build for our clients, websites that are fun and easy to interact with, giving our clients that representation they deserve. 
                                     
                                 </p>
                             </div>
