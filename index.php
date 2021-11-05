@@ -245,6 +245,17 @@
                         </div>
                     </div><!--services col-->
                     </div>
+                <div class="col-sm-8 col-sm-offset-2">
+
+<div class="session-title text-center">
+
+<h1> <span class="alo"> Brands that </span> trust us</h1>
+
+<span class="border-line"></span>
+
+</div>
+
+</div>
                 </div><!--services row-->
             </div>
         </section><!--services section end-->
