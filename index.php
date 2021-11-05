@@ -249,7 +249,7 @@
 
 <div class="session-title text-center">
 
-<h1> <span class="alo"> Brands that </span> trust us</h1>
+<h1> <span class="alo"> Brands that </span> TRUST US</h1>
 
 <span class="border-line"></span>
 
