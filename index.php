@@ -557,7 +557,7 @@
                                            
                                        
                                        <?php
-                                          /*  $email = "foo@bar.com";
+                                         $email = "foo@bar.com";
                                             $api_key = ???;
                                             
                                             $request_context = stream_context_create(array(
@@ -574,7 +574,7 @@
                                                 echo("email is invalid");
                                             } else {
                                               echo("email was unknown");
-                                            } */
+                                            } 
                                         ?> 
                                         
                                             
