@@ -553,31 +553,7 @@
 
                                             <input type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
                                             <p class="help-block"></p>
-                                           
-                                           
-                                       
-                                       <?php
-                                         $email = "foo@bar.com";
-                                            $api_key = ???;
-                                            
-                                            $request_context = stream_context_create(array(
-                                                'http' => array(
-                                                    'header'  => "Authorization: Bearer " . $api_key
-                                                )
-                                            ));
-                                            
-                                            $result_json = file_get_contents("https://isitarealemail.com/api/email/validate?email=" . $email, false, $request_context);
-                                            
-                                            if (json_decode($result_json, true)['status'] == "valid") {
-                                                echo("email is valid");
-                                            } else if (json_decode($result_json, true)['status'] == "invalid") {
-                                                echo("email is invalid");
-                                            } else {
-                                              echo("email was unknown");
-                                            } 
-                                        ?> 
                                         
-                                            
                                             
                                         </div>
                                     </div> 
